@@ -1,0 +1,1 @@
+/home/nikita/AndroidStudioProjects/SimpleDynamo/app/build/intermediates/classes/debug
